@@ -1,0 +1,16 @@
+{
+  "personal_info": {
+    "first_name": "Kyaw Kyaw",
+    "last_name": "Htun",
+    "email": "your_email@example.com",
+    "phone": "+65XXXXXXXX",
+    "location": "Singapore"
+  },
+  "professional_summary": {
+    "target_roles": ["Web Backend Engineer", "Bridge Software Engineer"],
+    "tech_stack": ["Java", "Spring Boot", "Python", "Django", "Node.js", "React Native"],
+    "experience_years": 4,
+    "notice_period": "1 month",
+    "visa_status": "Need Work Pass (WP/S-Pass) sponsorship"
+  }
+}
